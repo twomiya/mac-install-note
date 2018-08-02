@@ -29,5 +29,4 @@
 
 
 #### 命令行安装软件
-[参考地址]
-(https://github.com/guxiaobai/developer-101/blob/master/mac/homebrew.md)
+[参考地址](https://github.com/guxiaobai/developer-101/blob/master/mac/homebrew.md)
