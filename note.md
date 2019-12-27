@@ -42,7 +42,8 @@ extend(config, {isDev}) {
 
 ```
 * 3、重启nginx，在浏览器中Response Headers看到 Content-Encoding:gzip;
-*note*
+
+## note
 * 1、找到如下一段，进行修改
 
 ```gzip on;
